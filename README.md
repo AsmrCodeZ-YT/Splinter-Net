@@ -78,6 +78,3 @@ apps = ["/usr/bin/firefox", "/usr/bin/mpv"]
 - Flatpak/Snap: use the executable path; `flatpak run` / `snap run` spawn their
   children in the same namespace.
 
-## License
-
-MIT
