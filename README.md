@@ -1,5 +1,9 @@
 # Splinter Net
 
+ScreenShot | ScreenShot |
+--- | --- |  
+![](./img/pic1.png) | ![](./img/pic2.png)
+
 Assign network interfaces (for example two USB modems from two phones) to
 specific applications on Linux, with full traffic isolation, using **Rust** and
 **egui**.
